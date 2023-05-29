@@ -19,3 +19,25 @@
     padding: 20px;
     background-color: bisque;
 }
+
+.bai3{
+    background-color: aqua;
+    color: blue;
+
+}
+
+.bai4{
+    background-color: bisque;
+    color: goldenrod;
+
+}
+
+
+.bai4 button,input{
+    display: block;
+    margin: 10px;
+}
+.bai5{
+    background-color: blueviolet;
+    color: yellowgreen;
+}
